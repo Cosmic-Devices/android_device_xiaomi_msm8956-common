@@ -486,4 +486,7 @@
     <!-- Whether device supports double tap to wake -->
     <bool name="config_supportDoubleTapWake">true</bool>
 
+<!-- Button backlight -->
+     <bool name="config_deviceHasButtonBacklight">true</bool>
+     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 </resources>
